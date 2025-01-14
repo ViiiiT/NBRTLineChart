@@ -1,2 +1,4 @@
-# NBRTLineChart
-Self-made Ningbo Rail Trainsit
+- Charts within are provided for personal NON-commercial use ONLY, otherwise contact author before use.
+- Charts within are NOT for any purpose in reality, DON'T USE CHARTS WITHIN AS A PREDICTION FOR METRO CONSTRUCTION INSTRUCTIONS.
+- For any information, refer to official announcements from Ningbo Rail Transit. 
+- Mark author if you use anything in the project except station names. Those names are from @HBreadHuang from XiaoHongShu. 
